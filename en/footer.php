@@ -1,0 +1,25 @@
+<!-- rodape -->
+  <footer1>
+    <div class="note">
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <p>&copy; Jeny Lima Designer 2018 - All rights reserved <a href="http://jenylima.com/en"><span class="flag-icon flag-icon-gr hvr-shrink"></span></a> | <a href="http://jenylima.com"><span class="flag-icon flag-icon-br hvr-shrink"></span></a></p> 
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
+    <script src="../js/wow.min.js"></script>
+    <script>
+        new WOW().init();
+    </script>
+  </body>
+</html>
